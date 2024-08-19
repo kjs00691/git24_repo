@@ -1,0 +1,5 @@
+void function a {
+}
+ 
+void function a2{
+}
